@@ -11,12 +11,12 @@
         <div id="top" class="callbacks_container">
             <ul class="rslides" id="slider4">
             <li>
-                <img src="images/o-TRAVEL-facebook.jpg" alt="">
+                <img src="./mytour/5.jpg" height="100%" width="100%" alt="">
                 <div class="caption">
                     <div class="header-info">
-                    <h2><a href="#">Your Trusted Travel Packages and Services</a></h2>
+                    <h2><a href="#">TOURISM MANAGEMENT SYSTEM</a></h2>
                     <lable></lable>
-                    <h1><a href="#">Go Travel & Tourism Ltd </a></h1>
+                    
                     </div>
                 </div>
 

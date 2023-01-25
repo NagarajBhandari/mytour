@@ -16,11 +16,10 @@
               <div class="footer-list">
 			  </div></div>
 			 <div class="social-icons">
-			 <a href="#"><span class="facebook"> </span></a>
-			 <a href="#"><span class="twitter"> </span></a>
-			 <a href="#"><span class="googleplus"> </span></a>
-			 <a href="#"><span class="pinterest"> </span></a>
-			 <a href="#"><span class="instagram"> </span></a>
+			 <a href="https://www.facebook.com"><span class="facebook"> </span></a>
+			 <a href="https://www.twitter.com"><span class="twitter"> </span></a>
+			 <a href="https://www.pinterest.com"><span class="pinterest"> </span></a>
+			 <a href="https://www.instagram.com"><span class="instagram"> </span></a>
 			 </div>
 			 <div class="clearfix"></div>
 	     </div>

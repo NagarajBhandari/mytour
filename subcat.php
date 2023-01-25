@@ -72,7 +72,7 @@ while ($data=mysqli_fetch_array($result)) {
 <table border="0" width="100px" bordercolor="#FF6666">
 
 <tr><td align="center" style="background-color:#60B0E6; color:#FFF"><?php echo $data[1];?> </td></tr>
-<tr><td class="image"><img src="Admin/subcatimages/<?php echo $data[3]; ?>" width="250px" height="200px" /></td></tr><br/><br/>
+<tr><td class="image"><img src="Admin/subcatimages/3.jpg" width="250px" height="200px" /></td></tr><br/><br/>
 <tr><td align="center" style="background-color:#60B0E6; "><a href="package.php?subcatid=<?php echo $data[0];?>"><font color="#FFFFFF">View Detail</font></a></td></tr>
 
 </table>
